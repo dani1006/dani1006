@@ -97,6 +97,6 @@ Here are some ideas to get you started:
 <h4 align="left">Profile stats :musical_keyboard:</h4>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=dani1006&show_icons=true&theme=synthwave" alt="dani1006 :: Profile Stats" /></p
 >
-
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="400" width="600"></p>
+<!-- 
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="400" width="600"></p> -->
 
