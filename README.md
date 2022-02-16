@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
 - 🌱 I’m currently learning kotlin
+<br></br>
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
@@ -95,9 +96,9 @@ Here are some ideas to get you started:
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dani1006&langs_count=10&theme=tokyonight&layout=compact" alt="dani1006 :: Top Langs" /></p>
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
+<h4 align="right">Profile stats :musical_keyboard:</h4>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=dani1006&show_icons=true&theme=synthwave" alt="dani1006 :: Profile Stats" /></p>
+<p align="right"><img src="https://github-readme-stats.vercel.app/api?username=dani1006&show_icons=true&theme=synthwave" alt="dani1006 :: Profile Stats" /></p>
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
