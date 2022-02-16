@@ -94,7 +94,7 @@ Here are some ideas to get you started:
 
 <h4 align="left">Top langs</h4>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dani1006&langs_count=10&theme=tokyonight&layout=compact" alt="dani1006 :: Top Langs" /></p>
+<h2 align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dani1006&langs_count=10&theme=tokyonight&layout=compact" alt="dani1006 :: Top Langs" /></h2>
 
 <h4 align="right">Profile stats :musical_keyboard:</h4>
 
