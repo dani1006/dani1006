@@ -52,7 +52,7 @@ func main() {
 		fmt.Printf("%+v: %+v\n", k, v)
 	}
 }
-
+<!-- 
 func GetBio() Bio {
 	return Bio{
 		"- ⚡ Quick bio:":                    "A kind of metalHead-melomaniac-gearAddict-amateurMusician-traveler-foodLover-gamer-coder-programmer-catLover-sportsAficionado hybrid",
@@ -63,8 +63,8 @@ func GetBio() Bio {
 		"- 💬 Ask me about":                  "Python, PHP, Laravel, SQL, Software Design & Architecture, Web-Dev and SEO",
 		"- 📫 How to reach me:":              "https://github.com/AnhellO#you-can-reach-me-at-alien",
 	}
-}
-```
+} -->
+``` 
 
 <!-- <h2 align="center">You can reach me at :alien:</h2> -->
 
@@ -117,9 +117,9 @@ func GetBio() Bio {
 <!-- 
 <p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p> -->
 
-<h4 align="center">Top langs</h4>
+<h4 align="left">Top langs</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dani1006&langs_count=10&theme=tokyonight&layout=compact" alt="dani1006 :: Top Langs" /></p>
+<p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dani1006&langs_count=10&theme=tokyonight&layout=compact" alt="dani1006 :: Top Langs" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
