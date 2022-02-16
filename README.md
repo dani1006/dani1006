@@ -93,12 +93,12 @@ Here are some ideas to get you started:
 <p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p> -->
 
 <h4 align="left">Top langs</h4>
-
-<h2 align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dani1006&langs_count=10&theme=tokyonight&layout=compact" alt="dani1006 :: Top Langs" /></h2>
-
 <h4 align="right">Profile stats :musical_keyboard:</h4>
 
 <p align="right"><img src="https://github-readme-stats.vercel.app/api?username=dani1006&show_icons=true&theme=synthwave" alt="dani1006 :: Profile Stats" /></p>
+
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dani1006&langs_count=10&theme=tokyonight&layout=compact" alt="dani1006 :: Top Langs" /></p>
+
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
