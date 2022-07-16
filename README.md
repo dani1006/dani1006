@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🌱 &nbsp; I’m currently learning kotlin.
 - 🎓 &nbsp; Studying at Polytechnic State of Semarang.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and developing software solutionss.
 
 <!-- - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
